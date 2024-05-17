@@ -2,9 +2,24 @@
     box-sizing: border-box;
 }
 h1{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
     font-size: 80px;
     font-family: 'sans-serif', Courier, monospace;
+    background-color: yellow;
+    /* width: fit-content; */
+    border: 7px dashed rgb(43, 92, 226);
+
 }
 .overline{
-    font-family: Courier New;
+    font-family: Courier, monospace;
+    background-color: red;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+h1 s{
+    color: seashell;
+    padding-left: 20px;
 }
