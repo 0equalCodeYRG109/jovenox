@@ -1,4 +1,7 @@
 h1{
     font-size: 80px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'sans-serif', Courier, monospace;
+}
+.overline{
+    font-family: Courier New;
 }
