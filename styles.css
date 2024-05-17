@@ -23,3 +23,18 @@ h1 s{
     color: seashell;
     padding-left: 20px;
 }
+
+.art{
+    display: flex;
+    border: 2px solid red;
+    height: 300px;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.art div{
+    flex: auto;
+    max-width: 300px;
+    min-width: 200px;
+    border: 2px solid green;
+}
