@@ -35,7 +35,7 @@ h1 s{
 
 .art div{
     flex: auto;
-    max-width: 300px;
+    margin: 10px;
     min-width: 200px;
     border: 2px solid green;
 }
